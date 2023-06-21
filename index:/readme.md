@@ -1,3 +1,4 @@
 - [How to learn SQL for free | Roadmap to learning SQL](https://youtu.be/a-hFbr-4VQQ)
 - [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
 - [How I'd become a Data Analyst | If I had to start all over again](https://youtu.be/d_2fGS6QVDo)
+- [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
