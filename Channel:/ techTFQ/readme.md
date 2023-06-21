@@ -5,3 +5,4 @@ Home.Channel: https://www.youtube.com/@techTFQ
 - [SQL Basics Tutorial for Beginners (Practice SQL Queries)](https://youtu.be/Hl4NZB1XR9c)
 - [SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 1](https://youtu.be/0OQJDd3QqQM)
 - [SQL JOINS Tutorial for beginners | Practice SQL Queries using JOINS - Part 2](https://youtu.be/RehbnzKHS28)
+- [REAL SQL Interview Problem | Hierarchical data in SQL](https://youtu.be/LZGaRcDxj8I)
