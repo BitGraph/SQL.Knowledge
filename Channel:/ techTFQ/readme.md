@@ -1,6 +1,9 @@
 # techTFQ
 Home.Channel: https://www.youtube.com/@techTFQ
 
+Playlist:
+- [Learn Complete SQL (Beginner to Advance)](https://www.youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ)
+
 index:
 - [How to learn SQL for free | Roadmap to learning SQL](https://youtu.be/a-hFbr-4VQQ)
 - [SQL Basics Tutorial for Beginners (Practice SQL Queries)](https://youtu.be/Hl4NZB1XR9c)
