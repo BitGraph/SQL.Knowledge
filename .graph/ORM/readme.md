@@ -1,0 +1,1 @@
+- [ORMs no more, I do this instead (example in Rust, but applies to others too)](https://youtu.be/JUMDLPa3xSo)
